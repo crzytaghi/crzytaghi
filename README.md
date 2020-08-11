@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 ![Code](https://images.unsplash.com/photo-1516905041604-7935af78f572?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
 -->
 
-<img src="https://images.unsplash.com/photo-1516905041604-7935af78f572?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" width="100%">
+<img src="https://images.unsplash.com/photo-1526040652367-ac003a0475fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" width="100%">
 
 Hi there, my name is [Andrew Taghi](https://crzytaghi.github.io/Developer-Portfolio/), I am an Software Engineer from Texas 🤠
 
