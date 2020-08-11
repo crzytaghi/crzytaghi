@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-![Code](https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+![Code](https://images.unsplash.com/photo-1516905041604-7935af78f572?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
 
 Hi there, my name is [Andrew Taghi](https://crzytaghi.github.io/Developer-Portfolio/), I am an Software Engineer from Texas 🤠
 
