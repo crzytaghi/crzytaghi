@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 Hi there, my name is [Andrew Taghi](https://crzytaghi.github.io/Developer-Portfolio/), I am an Software Engineer from Texas 🤠
 
-- 🔭 I’m currently looking for my next software engineering opportunity. I am currently working on building an app that allows landlords to manage and track all of their tenants, schedule maintenance, and request payments.
-- 🌱 I’m currently learning React
+- 🔭 I’m currently a Software Engineer, helping build out a platform to simplify the home loan application process.
+- 🌱 Currently utilizing React, Typescrpt, Ruby, Rails, AWS, PostgreSQL
 - 👯 I’m looking to collaborate on a new project where I can utilize my new skills in Full Stack Software Development. Including:
   - JavaScript (ES6), React.js, Angular.js, EJS, jQuery
   - PHP, Node.js, Mongoose
